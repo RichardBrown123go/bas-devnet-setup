@@ -1,5 +1,8 @@
 {
   "chainId": $CHAIN_ID,
+  "deployers": [
+    "0x00A601f45688DbA8a070722073B015277cF36725"
+  ],
   "validators": [
     "0x00A601f45688DbA8a070722073B015277cF36725"
   ],
